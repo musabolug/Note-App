@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer>
          <p style={{color: "white"}}>
-            created by <a href="www.github.com/musabolug" style={{color: "white"}}>Musab OLuğ</a>
+            created by <a href="www.github.com/musabolug" style={{color: "white"}}>Musab Oluğ</a>
         </p>
         <br />
     </footer>
